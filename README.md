@@ -46,17 +46,7 @@ Brave browser installer script
 
       $ sudo flatpak install flathub com.brave.Browser
 
-- Using yay [AUR Helper](https://wiki.archlinux.org/title/AUR_helpers)
-
-      $ sudo yay -S brave-bin
-
-- Using Pamac [AUR Helper](https://wiki.archlinux.org/title/AUR_helpers) CLI (Included in Manjaro)
-      
-      $ sudo pamac build brave-bin
 
 # [Official installing guide](https://brave.com/linux/)
-# [Brave browser repository](https://github.com/brave/brave-browser)
-# Credit
-[@Brave](https://github.com/brave) 
 
-© Brave Software
+
