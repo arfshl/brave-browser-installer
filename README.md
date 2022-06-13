@@ -37,6 +37,14 @@ Brave browser installer script
 
       $ sudo eopkg it brave
 
+- NixOS
+
+     $ nix-env -iA nixos.brave
+
+- Nix Package manager
+
+     $ nix-env -iA nixpkgs.brave
+
 # Alternative methods
 - Snap package
       
@@ -46,7 +54,4 @@ Brave browser installer script
 
       $ sudo flatpak install flathub com.brave.Browser
 
-
 # [Official installing guide](https://brave.com/linux/)
-
-
