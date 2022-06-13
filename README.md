@@ -39,11 +39,11 @@ Brave browser installer script
 
 - NixOS
 
-     $ nix-env -iA nixos.brave
+      $ sudo nix-env -iA nixos.brave
 
 - Nix Package manager
 
-     $ nix-env -iA nixpkgs.brave
+      $ sudo nix-env -iA nixpkgs.brave
 
 # Alternative methods
 - Snap package
