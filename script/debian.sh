@@ -1,5 +1,5 @@
 ﻿#!/bin/sh
-print "Brave Browser Installer"
+print "Brave browser installer"
 print "sudo apt-get update
 sudo apt-get install -y curl apt-transport-https
 sudo curl -fsSLo /usr/share/keyrings/brave-browser-archive-keyring.gpg https://brave-browser-apt-release.s3.brave.com/brave-browser-archive-keyring.gpg
