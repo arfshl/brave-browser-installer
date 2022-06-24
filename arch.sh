@@ -1,6 +1,6 @@
 #!/bin/sh
-print "Brave browser installer"
-print "sudo pacman -S base-devel git
+echo "Brave browser installer"
+echo "sudo pacman -S base-devel git
 git clone https://aur.archlinux.org/brave-bin.git
 cd brave-bin
 sudo makepkg -si"
