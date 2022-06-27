@@ -40,6 +40,6 @@ Brave browser installer script
 
 - Flatpak
 
-      $ sudo flatpak install flathub com.brave.Browser
+      $ flatpak install flathub com.brave.Browser
 
 ### [Official installing guide](https://brave.com/linux/)
