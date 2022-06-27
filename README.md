@@ -1,6 +1,6 @@
 # brave-browser-install
 Brave browser installer script
-#### Install brave browser
+## Install brave browser
 - [Debian-based (Debian 9+, Ubuntu 16.04+ and Linux Mint 18+)](https://raw.githubusercontent.com/arfshl/brave-browser-installer/main/script/debian.sh)
 
        $ sudo wget https://raw.githubusercontent.com/arfshl/brave-browser-installer/main/debian.sh -P ~/Downloads && cd ~/Downloads && sudo sh debian.sh && rm debian.sh
@@ -33,7 +33,7 @@ Brave browser installer script
 
       # wget https://raw.githubusercontent.com/arfshl/brave-browser-installer/main/gentoo.sh -P ~/Downloads && cd ~/Downloads && sudo sh gentoo.sh && rm gentoo.sh
 
-#### Alternative methods
+## Alternative methods
 - Snap package
       
       $ sudo snap install brave
@@ -42,4 +42,4 @@ Brave browser installer script
 
       $ flatpak install flathub com.brave.Browser
 
-#### [Official installing guide](https://brave.com/linux/)
+## [Official installing guide](https://brave.com/linux/)
