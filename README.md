@@ -29,7 +29,7 @@ Brave browser installer script
 
       $ sudo nix-env -iA nixpkgs.brave
 
-- Gentoo
+- [Gentoo](https://raw.githubusercontent.com/arfshl/brave-browser-installer/main/gentoo.sh)
 
       # wget https://raw.githubusercontent.com/arfshl/brave-browser-installer/main/gentoo.sh -P ~/Downloads && cd ~/Downloads && sudo sh gentoo.sh && rm gentoo.sh
 
