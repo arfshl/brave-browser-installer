@@ -29,5 +29,3 @@ Brave browser installer script
 - Flatpak
 
        flatpak install flathub com.brave.Browser
-
-## [Official installing guide](https://brave.com/linux/)
